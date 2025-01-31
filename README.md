@@ -1,6 +1,7 @@
 # 🚀 Full Stack & Blockchain Engineer | 🚀 Tech Enthusiast | 🌍 Open Source Contributor
 
 Welcome to my GitHub profile! 
+
 I'm a passionate Full Stack Engineer and Blockchain Developer with 7+ years of experience in developing high-performance applications and decentralized solutions. 
 From building scalable web applications to designing secure blockchain networks, I love solving complex problems with innovative technologies.
 
